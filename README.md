@@ -6,7 +6,7 @@ I'm interested in cybersecurity, data analytics, SQL and programming. I'm develo
 
 I'm currently building my experience with cloud networking, database management, and cybersecurity. I'm looking forward to growing my skills, gaining internship experience, and working on projects that solve real-world problems.
 
-##Technical Interests
+## Technical Interests
 
 Cybersecurity: Network security and security fundamentals
 
@@ -16,7 +16,7 @@ Databases: SQL, database design, and normalization
 
 Programming: Python and Java
 
-##Projects
+## Projects
 
 Azure Cloud Networking Lab — Worked with virtual networks, subnets, network security rules, and an Ubuntu virtual machine.
 <!--
